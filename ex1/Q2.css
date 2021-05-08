@@ -1,0 +1,23 @@
+.col-2, .col-4{
+  height: 100px;
+  width: 100px;
+  border: 2px solid;
+  border-color: #3d618d;
+}
+.f1
+{
+  background-color:#d99694;
+}
+.f2
+{
+  background-color: #c4bd97;
+}
+.f3
+{
+  background-color: #558ed5;
+}
+h1
+{
+  text-align: center;
+  color: red;
+}
