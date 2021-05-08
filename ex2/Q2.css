@@ -1,0 +1,159 @@
+.box{
+  border-style: solid;
+  border-color: #3d618d;
+  border-width: 2px;
+  position: absolute;
+}
+p{
+  text-align: center;
+    color: #fff;
+}
+
+#f1{
+  width: 460px;
+  height: 70px;
+  background-color: #558ed5;
+}
+#f2{
+  width: 460px;
+  height: 50px;
+  margin-top: 80px;
+  background-color: #c4bd97;
+}
+#f3{
+  width: 100px;
+  height: 100px;
+  margin-top: 145px;
+  background-color: #c6d9f1;
+}
+#f4{
+  width: 100px;
+  height: 100px;
+  margin-top: 145px;
+  margin-left: 120px;
+  background-color: #e6b9b8;
+}
+#f5{
+  width: 100px;
+  height: 100px;
+  margin-top: 145px;
+  margin-left: 240px;
+  background-color: #c3d69b;
+}
+#f6{
+  width: 100px;
+  height: 100px;
+  margin-top: 145px;
+  margin-left: 360px;
+  background-color: #fac090;
+}
+#f7{
+  width: 220px;
+  height: 100px;
+  margin-top: 260px;
+  background-color: #00b0f0;
+}
+#f8{
+  width: 220px;
+  height: 100px;
+  margin-top: 260px;
+  margin-left: 240px;
+  background-color: #00b0f0;
+}
+#f9{
+  width: 460px;
+  height: 70px;
+  margin-top: 375px;
+  background-color: #b3a2c7;
+}
+
+@media screen and (max-width: 800px) {
+  #f2{
+    height: 70px;
+  }
+  #f3{
+    width: 220px;
+    margin-top: 160px;
+    height: 70px;
+  }
+  #f4{
+    width: 220px;
+    margin-top: 160px;
+    margin-left: 240px;
+    height: 70px;
+  }
+  #f5{
+    width: 220px;
+    height: 70px;
+    margin-top: 240px;
+    margin-left: 0px;
+  }
+  #f6{
+    width: 220px;
+    height: 70px;
+    margin-top: 240px;
+    margin-left: 240px;
+  }
+  #f7{
+    width: 460px;
+    margin-top: 320px;
+    height: 70px;
+  }
+  #f8{
+    width: 460px;
+    margin-top: 400px;
+    height: 70px;
+    margin-left: 0px;
+  }
+  #f9{
+    margin-top: 480px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #f1{
+    height: 50px;
+  }
+  #f2{
+    height: 50px;
+    margin-top: 60px;
+  }
+  #f3{
+    width: 460px;
+    height: 50px;
+    margin-top: 120px;
+  }
+  #f4{
+    width: 460px;
+    margin-top: 180px;
+    margin-left: 0px;
+    height: 50px;
+  }
+  #f5{
+    width: 460px;
+    height: 50px;
+    margin-top: 240px;
+    margin-left: 0px;
+  }
+  #f6{
+    width: 460px;
+    height: 50px;
+    margin-top: 300px;
+    margin-left:0px;
+  }
+  #f7{
+    width: 460px;
+    margin-top: 360px;
+    height: 50px;
+  }
+  #f8{
+    width: 460px;
+    margin-top: 420px;
+    height: 50px;
+    margin-left: 0px;
+  }
+  #f9{
+    margin-top: 480px;
+    height: 50px;
+  }
+}
