@@ -1,0 +1,42 @@
+body{background-image: url("img2.PNG");
+ background-size: 100%;}
+h1{
+  border: solid 5px;
+  border-radius: 20%;
+  border-color: #f7a61b;
+  text-align:center;
+}
+.name{
+  width:300px;
+  margin-left: 500px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.tp1{border: 2px solid;
+border-radius: 50%;
+border-color: #f7a61b;
+width:400px;
+text-align: center;
+margin-top: 250px;
+}
+.tp2{
+  border: 2px solid;
+  border-radius: 20%;
+  border-color: #f7a61b;
+  width:400px;
+  text-align: center;
+  margin-left: 900px;
+  margin-top: 200px;
+}
+div{position: absolute;}
+a:hover {
+  background-color: gold;
+}
+.tp1:hover{
+  background-color: #edd4aa;
+}
+.tp2:hover{
+  background-color: #edd4aa;
+}
