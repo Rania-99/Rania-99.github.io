@@ -30,14 +30,13 @@ margin-top: 250px;
   margin-left: 900px;
   margin-top: 200px;
 }
-.tp3{
-  border: 2px solid;
-  border-radius: 20%;
-  border-color: #f7a61b;
-  width:400px;
-  text-align: center;
-  margin-left: 500px;
-  margin-top: 900px;
+.tp3{border: 2px solid;
+border-radius: 50%;
+border-color: #f7a61b;
+width:400px;
+text-align: center;
+margin-left: 500px;
+margin-top: 500px;
 }
 div{position: absolute;}
 a:hover {
